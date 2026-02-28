@@ -8,7 +8,7 @@
     <test verbose="2" preserve-order="false"
           name="MobileAPUITest">
         <classes>
-            <class name="mobileApUi.CheckTest">
+            <class name="mobileApUi.MobilApUiTest">
                 <methods>
                     <include name="firstTest"/>
                 </methods>
