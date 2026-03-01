@@ -15,7 +15,7 @@ public class MobilApUiTest extends BaseTest {
     public void firstTest(){
         WebDriver driver = DriverManager.getBrowserInstance().getDriver();
         System.out.println("Browser title is : " + driver.getTitle());
-        Assert.assertEquals(driver.getTitle(), "Google...", "Title does not matches!!");
+        Assert.assertEquals(driver.getTitle(), "Google", "Title does not matches!!");
     }
 
     @Test
