@@ -54,7 +54,7 @@
                 <version>3.1.2</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>*TestNG.xml</suiteXmlFile>
+                        <suiteXmlFile>MobileAPUI-TestNG.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
