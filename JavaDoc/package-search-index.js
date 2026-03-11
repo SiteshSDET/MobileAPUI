@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"base"},{"l":"mobileApUi"},{"l":"page"},{"l":"util"}];updateSearchResults();
